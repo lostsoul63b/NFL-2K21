@@ -1,0 +1,1 @@
+2k21 Accurate Ratings in 2k5 Format * Will not break franchise mode ratings * Enable edit rookies to change any *** name glitches * Enjoy responsibly
