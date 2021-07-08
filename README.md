@@ -1,5 +1,5 @@
 # NFL2K21-Project
-![GitHub2K21](https://user-images.githubusercontent.com/69597675/124939657-4c89e400-dfd7-11eb-901a-685715e1424e.png)
+<img width="246" alt="2K21Menu" src="https://user-images.githubusercontent.com/69597675/124939775-67f4ef00-dfd7-11eb-99bd-84a7f4e441a0.png">
 
 The NFL2K21 V7 (Full) build includes:
  - Stable realese of PCSX2 1.6
