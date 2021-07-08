@@ -25,7 +25,7 @@
 * Franchise schedule - some teams have multiple by weeks
 
 # ESPN NFL 2K21 - Installation Guid
-Please reference the included installation document (Getting Started With NFL 2K21.pdf)
+Please reference the included installation document [Getting Started With NFL 2K21.pdf](https://github.com/lostsoul63b/NFL2K21-Project/blob/main/Guide/Getting%20Started%20With%20NFL%202K21.pdf)
 
 ## Current Release
 | Platform | Version | Release Date  | Notes |
