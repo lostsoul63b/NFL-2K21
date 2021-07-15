@@ -2,7 +2,8 @@
 <img width="246" alt="2K21Menu" src="https://user-images.githubusercontent.com/69597675/124939775-67f4ef00-dfd7-11eb-99bd-84a7f4e441a0.png">
 
 **The NFL2K21 V7 (Full) build includes**:
- - Stable realese of PCSX2 1.6
+ - Stable realese of PCSX2 1.6  ![RedArrow2](https://user-images.githubusercontent.com/69597675/125798031-029f40f4-2072-4e2c-875c-d277869f18a4.png) 
+ [Download NFL2K21](https://github.com/lostsoul63b/NFL2K21-Project/blob/main/NFL2K21%20V7%20(Full)/NFL2K21.zip)
  - Updated EA Madden 2020 Ratings (Ros+Fran)
  - RateSports Shaders, Playbook, Settings, VIP profile
 
@@ -16,7 +17,7 @@
  
 ## Follow for important updates and information
 * ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb) - best place for help with various questions and the latest news
-* ![YouTube](https://user-images.githubusercontent.com/69597675/124641345-9b5f3e80-de5c-11eb-80e3-4dc5fabc4137.png) [YouTube](https://www.youtube.com/lostsoul63b) - best place for video updates
+* ![YouTube](https://user-images.githubusercontent.com/69597675/124641345-9b5f3e80-de5c-11eb-80e3-4dc5fabc4137.png) [YouTube](https://www.youtube.com/lostsoul63b)
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 
 ## Known Issues:
